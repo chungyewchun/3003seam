@@ -15,9 +15,7 @@ public class Result {
   
     int getTotal()
     {
-        total = 1 + 1 
-        return (total);
-       // return (RE+SDA+SQAT+SEAM+FM);
+        return (RE+SDA+SQAT+SEAM+FM);
     }
     
     void testDisplay()
